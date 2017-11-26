@@ -1,2 +1,5 @@
 # LEARN-UP
 YOU SHOULD LEARN IT.
+LOS ARCHIVOS DE SECUENCIAS DE COMANDOS,
+SE EJECUTAN CON: node nombreaechivo
+En la linea de comandos.
